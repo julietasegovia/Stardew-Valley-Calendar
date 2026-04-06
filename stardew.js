@@ -65,7 +65,7 @@ function addImage(season, day, src, type = "icon", tooltipImages = []) {
     }
 }
 
-aaddImage("spring", 4, "characters/Kent_Icon.png", "icon", ["gifts/Fiddlehead_Risotto.png", "gifts2/Roasted_Hazelnuts.png"]);
+addImage("spring", 4, "characters/Kent_Icon.png", "icon", ["gifts/Fiddlehead_Risotto.png", "gifts2/Roasted_Hazelnuts.png"]);
 addImage("spring", 7, "characters/Lewis_Icon.png", "icon", ["gifts/Autumn's_Bounty.png", "gifts/Glazed_Yams.png", "gifts/Green_Tea.png", "gifts/Hot_Pepper.png", "gifts2/Vegetable_Medley.png"]);
 addImage("spring", 10, "characters/Vincent_Icon.png", "icon", ["gifts/Cranberry_Candy.png", "gifts/Ginger_Ale.png", "gifts/Grape.png", "gifts/Green_Frog_Egg.png", "gifts2/Snail.png", "gifts/Pink_Cake.png"]);
 addImage("spring", 14, "characters/Haley_Icon.png", "icon", ["gifts/Pink_Cake.png", "gifts2/Sunflower.png", "gifts/Fruit_Salad.png", "gifts/Coconut.png"]);
