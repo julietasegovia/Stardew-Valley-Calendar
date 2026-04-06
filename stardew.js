@@ -65,10 +65,10 @@ function addImage(season, day, src, type = "icon", tooltipImages = []) {
     }
 }
 
-addImage("spring", 4, "characters/Kent_Icon.png", "icon", ["gifts/Fiddlehead_Risotto.png", "gifts/Roasted_Hazelnuts.png"]);
-addImage("spring", 7, "characters/Lewis_Icon.png", "icon", ["gifts/Autumn's_Bounty.png", "gifts/Glazed_Yams.png", "gifts/Green_Tea.png", "gifts/Hot_Pepper.png", "gifts/Vegetable_Medley.png"]);
-addImage("spring", 10, "characters/Vincent_Icon.png", "icon", ["gifts/Cranberry_Candy.png", "gifts/Ginger_Ale.png", "gifts/Grape.png", "gifts/Green_Frog_Egg.png", "gifts/Snail.png", "gifts/Pink_Cake.png"]);
-addImage("spring", 14, "characters/Haley_Icon.png", "icon", ["gifts/Pink_Cake.png", "gifts/Sunflower.png", "gifts/Fruit_Salad.png", "gifts/Coconut.png"]);
+aaddImage("spring", 4, "characters/Kent_Icon.png", "icon", ["gifts/Fiddlehead_Risotto.png", "gifts2/Roasted_Hazelnuts.png"]);
+addImage("spring", 7, "characters/Lewis_Icon.png", "icon", ["gifts/Autumn's_Bounty.png", "gifts/Glazed_Yams.png", "gifts/Green_Tea.png", "gifts/Hot_Pepper.png", "gifts2/Vegetable_Medley.png"]);
+addImage("spring", 10, "characters/Vincent_Icon.png", "icon", ["gifts/Cranberry_Candy.png", "gifts/Ginger_Ale.png", "gifts/Grape.png", "gifts/Green_Frog_Egg.png", "gifts2/Snail.png", "gifts/Pink_Cake.png"]);
+addImage("spring", 14, "characters/Haley_Icon.png", "icon", ["gifts/Pink_Cake.png", "gifts2/Sunflower.png", "gifts/Fruit_Salad.png", "gifts/Coconut.png"]);
 addImage("spring", 15, "seeds/Rhubarb_Seeds.png", "crop");
 addImage("spring", 16, "seeds/Cauliflower_Seeds.png", "crop");
 addImage("spring", 18, "seeds/Bean_Starter.png", "crop");
@@ -81,43 +81,43 @@ addImage("spring", 22, "seeds/Potato_Seeds.png", "crop");
 addImage("spring", 22, "seeds/Tulip_Bulb.png", "crop");
 addImage("spring", 24, "seeds/Parsnip_Seeds.png", "crop");
 addImage("spring", 24, "seeds/Garlic_Seeds.png", "crop");
-addImage("spring", 26, "characters/Pierre_Icon.png", "icon", []);
-addImage("spring", 27, "characters/Emily_Icon.png", "icon", []);
+addImage("spring", 26, "characters/Pierre_Icon.png", "icon", ["gifts/Fried_Calamari.png", "gifts/Price_Catalogue.png"]);
+addImage("spring", 27, "characters/Emily_Icon.png", "icon", ["gifts/Amethyst.png", "gifts/Aquamarine.png", "gifts/Cloth.png", "gifts/Emerald.png", "gifts/Jade.png", "gifts/Parrot_Egg.png", "gifts2/Ruby.png", "gifts2/Survival_Burger.png", "gifts2/Topaz.png", "gifts2/Wool.png"]);
 
-addImage("summer", 4, "characters/Jas_Icon.png", "icon", []);
-addImage("summer", 8, "characters/Gus_Icon.png", "icon", []);
-addImage("summer", 10, "characters/Maru_Icon.png", "icon", []);
-addImage("summer", 13, "characters/Alex_Icon.png", "icon", []);
+addImage("summer", 4, "characters/Jas_Icon.png", "icon", ["gifts/Pink_Cake.png", "gifts/Ancient_Doll.png", "gifts/Fairy_Box.png", "gifts/Fairy_Rose.png", "gifts/Plum_Pudding.png", "gifts2/Strange_Doll_(green).png", "gifts2/Strange_Doll_(yellow).png"]);
+addImage("summer", 8, "characters/Gus_Icon.png", "icon", ["gifts/Diamond.png", "gifts/Escargot.png", "gifts/Fish_Taco.png", "gifts/Orange.png", "gifts2/Tropical_Curry.png"]);
+addImage("summer", 10, "characters/Maru_Icon.png", "icon", ["gifts/Diamond.png", "gifts/Pepper_Poppers.png", "gifts/Battery_Pack.png", "gifts/Cheese_Cauliflower.png", "gifts/Cauliflower.png", "gifts/Dwarf_Gadget.png", "gifts/Gold_Bar.png", "gifts/Iridium_Bar.png", "gifts/Miner's_Treat.png", "gifts/Radioactive_Bar.png", "gifts/Rhubarb_Pie.png", "gifts2/Strawberry.png"]);
+addImage("summer", 13, "characters/Alex_Icon.png", "icon", ["gifts/Complete_Breakfast.png", "gifts/Jack_Be_Nimble,_Jack_Be_Thick.png", "gifts2/Salmon_Dinner.png"]);
 addImage("summer", 15, "seeds/Starfruit_Seeds.png", "crop");
 addImage("summer", 15, "seeds/Blueberry_Seeds.png", "crop");
 addImage("summer", 16, "seeds/Melon_Seeds.png", "crop");
 addImage("summer", 17, "seeds/Tomato_Seeds.png", "crop");
 addImage("summer", 17, "seeds/Hops_Starter.png", "crop");
-addImage("summer", 17, "characters/Sam_Icon.png", "icon", []);
+addImage("summer", 17, "characters/Sam_Icon.png", "icon", ["gifts/Cactus_Fruit.png", "gifts/Pizza.png", "gifts/Maple_Bar.png", "gifts2/Tigerseye.png"]);
 addImage("summer", 18, "seeds/Coffee_Bean.png", "crop");
 addImage("summer", 19, "seeds/Red_Cabbage_Seeds.png", "crop");
-addImage("summer", 19, "characters/Demetrius_Icon.png", "icon", []);
+addImage("summer", 19, "characters/Demetrius_Icon.png", "icon", ["gifts/Bean_Hotpot.png", "gifts/Ice_Cream.png", "gifts/Rice_Pudding.png", "gifts2/Strawberry.png"]);
 addImage("summer", 20, "seeds/Spangle_Seeds.png", "crop");
 addImage("summer", 21, "seeds/Poppy_Seeds.png", "crop");
 addImage("summer", 22, "seeds/Radish_Seeds.png", "crop");
-addImage("summer", 22, "characters/Dwarf_Icon.png", "icon", []);
+addImage("summer", 22, "characters/Dwarf_Icon.png", "icon", ["gifts/Amethyst.png", "gifts/Aquamarine.png", "gifts/Emerald.png", "gifts/Jade.png", "gifts/Lava_Eel.png", "gifts/Lemon_Stone.png", "gifts/Omni_Geode.png", "gifts2/Ruby.png", "gifts2/Topaz.png"]);
 addImage("summer", 23, "seeds/Pepper_Seeds.png", "crop");
-addImage("summer", 24, "characters/Willy_Icon.png", "icon", []);
-addImage("summer", 26, "characters/Leo_Icon.png", "icon", []);
+addImage("summer", 24, "characters/Willy_Icon.png", "icon", ["gifts/Catfish.png", "gifts/Diamond.png", "gifts/Gold_Bar.png", "gifts/Iridium_Bar.png", "gifts/Jewels_Of_The_Sea.png", "gifts/Mead.png", "gifts/Octopus.png", "gifts/Pumpkin.png", "gifts2/Sea_Cucumber.png", "gifts2/Sturgeon.png", "gifts2/The_Art_O'_Crabbing.png"]);
+addImage("summer", 26, "characters/Leo_Icon.png", "icon", ["gifts/Duck_Feather.png", "gifts/Mango.png", "gifts/Ostrich_Egg.png", "gifts/Parrot_Egg.png", "gifts/Poi.png"]);
 addImage("summer", 28, "seeds/Ancient_Seeds.png", "crop");
 
-addImage("fall", 2, "characters/Penny_Icon.png", "icon", []);
+addImage("fall", 2, "characters/Penny_Icon.png", "icon", ["gifts/Diamond.png", "gifts/Emerald.png", "gifts/Melon.png", "gifts/Poppy.png", "gifts/Poppyseed_Muffin.png", "gifts/Red_Plate.png", "gifts2/Roots_Platter.png", "gifts2/Sandfish.png", "gifts2/Tom_Kha_Soup.png"]);
 addImage("fall", 4, "seeds/Rare_Seed.png", "crop");
-addImage("fall", 5, "characters/Elliott_Icon.png", "icon", []);
-addImage("fall", 11, "characters/Jodi_Icon.png", "icon", []);
-addImage("fall", 13, "characters/Abigail_Icon.png", "icon", []);
+addImage("fall", 5, "characters/Elliott_Icon.png", "icon", ["gifts/Crab_Cakes.png", "gifts/Duck_Feather.png", "gifts/Lobster.png", "gifts/Pomegranate.png", "gifts2/Squid_Ink.png", "gifts2/Tom_Kha_Soup.png"]);
+addImage("fall", 11, "characters/Jodi_Icon.png", "icon", ["gifts/Chocolate_Cake.png", "gifts/Crispy_Bass.png", "gifts/Diamond.png", "gifts/Eggplant_Parmesan.png", "gifts/Fried_Eel.png", "gifts/Pancakes.png", "gifts/Rhubarb_Pie.png", "gifts2/Vegetable_Medley.png"]);
+addImage("fall", 13, "characters/Abigail_Icon.png", "icon", ["gifts/Amethyst.png", "gifts/Banana_Pudding.png", "gifts/Blackberry_Cobbler.png", "gifts/Chocolate_Cake.png", "gifts/Monster_Compendium.png", "gifts/Pufferfish.png", "gifts/Pumpkin.png", "gifts2/Spicy_Eel.png"]);
 addImage("fall", 14, "seeds/Corn_Seeds.png", "crop");
 addImage("fall", 15, "seeds/Pumpkin_Seeds.png", "crop");
-addImage("fall", 15, "characters/Sandy_Icon.png", "icon", []);
+addImage("fall", 15, "characters/Sandy_Icon.png", "icon", ["gifts/Crocus.png", "gifts/Daffodil.png", "gifts/Mango_Sticky_Rice.png", "gifts2/Sweet_Pea.png"]);
 addImage("fall", 16, "seeds/Fairy_Seeds.png", "crop");
 addImage("fall", 18, "seeds/Grape_Starter.png", "crop");
 addImage("fall", 18, "seeds/Yam_Seeds.png", "crop");
-addImage("fall", 18, "characters/Marnie_Icon.png", "icon", []);
+addImage("fall", 18, "characters/Marnie_Icon.png", "icon", ["gifts/Diamond.png", "gifts/Farmer's_Lunch.png", "gifts/Pink_Cake.png", "gifts/Pumpkin_Pie.png"]);
 addImage("fall", 20, "seeds/Artichoke_Seeds.png", "crop");
 addImage("fall", 20, "seeds/Sunflower_Seeds.png", "crop");
 addImage("fall", 21, "seeds/Amaranth_Seeds.png", "crop");
@@ -126,18 +126,18 @@ addImage("fall", 22, "seeds/Beet_Seeds.png", "crop");
 addImage("fall", 23, "seeds/Eggplant_Seeds.png", "crop");
 addImage("fall", 24, "seeds/Bok_Choy_Seeds.png", "crop");
 addImage("fall", 24, "seeds/Wheat_Seeds.png", "crop");
-addImage("fall", 21, "characters/Robin_Icon.png", "icon", []);
-addImage("fall", 24, "characters/George_Icon.png", "icon", []);
+addImage("fall", 21, "characters/Robin_Icon.png", "icon", ["gifts/Goat_Cheese.png", "gifts/Peach.png", "gifts2/Spaghetti.png", "gifts2/Woody's_Secret.png"]);
+addImage("fall", 24, "characters/George_Icon.png", "icon", ["gifts/Fried_Mushroom.png", "gifts/Leek.png"]);
 
-addImage("winter", 1, "characters/Krobus_Icon.png", "icon", []);
-addImage("winter", 3, "characters/Linus_Icon.png", "icon", []);
-addImage("winter", 7, "characters/Caroline_Icon.png", "icon", []);
-addImage("winter", 10, "characters/Sebastian_Icon.png", "icon", []);
-addImage("winter", 14, "characters/Harvey_Icon.png", "icon", []);
-addImage("winter", 17, "characters/Wizard_Icon.png", "icon", []);
-addImage("winter", 20, "characters/Evelyn_Icon.png", "icon", []);
-addImage("winter", 23, "characters/Leah_Icon.png", "icon", []);
-addImage("winter", 26, "characters/Clint_Icon.png", "icon", []);
+addImage("winter", 1, "characters/Krobus_Icon.png", "icon", ["gifts/Diamond.png", "gifts/Iridium_Bar.png", "gifts/Monster_Compendium.png", "gifts/Monster_Musk.png", "gifts/Pumpkin.png", "gifts2/Void_Egg.png", "gifts2/Void_Mayonnaise.png", "gifts2/Wild_Horseradish.png"]);
+addImage("winter", 3, "characters/Linus_Icon.png", "icon", ["gifts/Blueberry_Tart.png", "gifts/Cactus_Fruit.png", "gifts/Coconut.png", "gifts/Dish_O'_The_Sea.png", "gifts2/The_Alleyway_Buffet.png", "gifts2/Yam.png"]);
+addImage("winter", 7, "characters/Caroline_Icon.png", "icon", ["gifts/Fish_Taco.png", "gifts/Green_Tea.png", "gifts2/Summer_Spangle.png", "gifts2/Tropical_Curry.png"]);
+addImage("winter", 10, "characters/Sebastian_Icon.png", "icon", ["gifts/Frozen_Tear.png", "gifts/Green_Frog_Egg.png", "gifts/Obsidian.png", "gifts/Pumpkin_Soup.png", "gifts2/Sashimi.png", "gifts2/Void_Egg.png"]);
+addImage("winter", 14, "characters/Harvey_Icon.png", "icon", ["gifts/Coffee.png", "gifts/Pickles.png", "gifts2/Super_Meal.png", "gifts2/Truffle_Oil.png", "gifts2/Wine.png"]);
+addImage("winter", 17, "characters/Wizard_Icon.png", "icon", ["gifts/Book_of_Mysteries.png", "gifts/Purple_Mushroom.png", "gifts2/Solar_Essence.png", "gifts2/Super_Cucumber.png", "gifts2/Void_Essence.png"]);
+addImage("winter", 20, "characters/Evelyn_Icon.png", "icon", ["gifts/Beet.png", "gifts/Chocolate_Cake.png", "gifts/Diamond.png", "gifts/Fairy_Rose.png", "gifts/Raisins.png", "gifts2/Stuffing.png", "gifts2/Tulip.png"]);
+addImage("winter", 23, "characters/Leah_Icon.png", "icon", ["gifts/Goat_Cheese.png", "gifts/Poppyseed_Muffin.png", "gifts2/Salad.png", "gifts2/Salmon_Dinner.png", "gifts2/Stir_Fry.png", "gifts2/Truffle.png", "gifts2/Vegetable_Medley.png", "gifts2/Wine.png"]);
+addImage("winter", 26, "characters/Clint_Icon.png", "icon", ["gifts/Amethyst.png", "gifts/Aquamarine.png", "gifts/Artichoke_Dip.png", "gifts/Emerald.png", "gifts/Fiddlehead_Risotto.png", "gifts/Gold_Bar.png", "gifts/Iridium_Bar.png", "gifts/Jade.png", "gifts/Omni_Geode.png", "gifts2/Ruby.png", "gifts2/Topaz.png"]);
 
 const seasonss = {
   spring: document.querySelector("#spring"),
